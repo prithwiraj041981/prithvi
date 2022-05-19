@@ -1,8 +1,8 @@
 class simple {
-public static void main(Strings args[])
+public static void main(String args[])
 {
 
-system.out.println("hello World!animal!nn");:
+System.out.println("hello World!animal!nn");
 
 
 }
